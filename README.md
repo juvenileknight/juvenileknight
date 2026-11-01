@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, there 👋
 
-<!--
-**juvenileknight/juvenileknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer with a UI/UX design mindset. I build responsive, accessible interfaces that are easy to use and maintain.
 
-Here are some ideas to get you started:
+### About me
+- 🎨 Interested in user-centered design and thoughtful interactions
+- 💻 Building with HTML, CSS, JavaScript, and Vue
+- 🧩 I enjoy turning wireframes and prototypes into polished interfaces
+- 🌱 Currently learning UX/UI
+- 📫 Contact: juvenileknight774@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+**Frontend:** HTML · CSS · JavaScript · [React/Vue]  
+**UI/UX:** Figma · Wireframing · Prototyping · Responsive design · Accessibility  
+**Tools:** Git · GitHub
